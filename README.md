@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mari2213
-- 👀 I’m interested in Java programming, website and systems development
+- 👀 I’m interested in Java programming, website and syste development
 - 🌱 I'm studying Systems Analysis and Development
 - 💞️ I like to tinker with live broadcasts and sound systems ...
 
