@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Marianna 
-- 🌱 I'm studying Systems Analysis and Development
+# 👋 Hi, I’m Marianna 
 
 <!---
 Mari2213/Mari2213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
